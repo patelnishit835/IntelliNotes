@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">720925181108-t4vadufkerd7dh9keei555b94skbm5hj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://audiowala-5dc5f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">720925181108</string>
+    <string name="google_api_key" translatable="false">AIzaSyBLizu0bvBRI-fjl7LFhACN2iw6E3ew53A</string>
+    <string name="google_app_id" translatable="false">1:720925181108:android:7365dda509058476</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLizu0bvBRI-fjl7LFhACN2iw6E3ew53A</string>
+    <string name="google_storage_bucket" translatable="false">audiowala-5dc5f.appspot.com</string>
+    <string name="project_id" translatable="false">audiowala-5dc5f</string>
+</resources>

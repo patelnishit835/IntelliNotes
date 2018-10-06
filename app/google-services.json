@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "720925181108",
+    "firebase_url": "https://audiowala-5dc5f.firebaseio.com",
+    "project_id": "audiowala-5dc5f",
+    "storage_bucket": "audiowala-5dc5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720925181108:android:7365dda509058476",
+        "android_client_info": {
+          "package_name": "acer.example.com.audiowala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720925181108-r1j1drlofni22qadqpe5crt8bqcc0ojq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "acer.example.com.audiowala",
+            "certificate_hash": "eb7cfa97ea0db0bc9f4c3b9c5618cd3674c1106b"
+          }
+        },
+        {
+          "client_id": "720925181108-t4vadufkerd7dh9keei555b94skbm5hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLizu0bvBRI-fjl7LFhACN2iw6E3ew53A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720925181108-t4vadufkerd7dh9keei555b94skbm5hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
