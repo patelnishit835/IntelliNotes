@@ -1,6 +1,6 @@
 # IntelliNotes
 
- *Contributes:*
+ *Contributers:*
 * Shivam Sansare
 * Nishit Patel
 * Akshay Kotak
