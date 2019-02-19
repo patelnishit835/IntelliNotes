@@ -1,6 +1,8 @@
+# IntelliNotes
 
-Contributers
-*Shivam Sansare
-*Amit Mahajan
-*Nishit Patel
-*Akshay Kotak
+# Contributers
+* Shivam Sansare
+* Nishit Patel
+* Akshay Kotak
+* Amit Mahajan
+
