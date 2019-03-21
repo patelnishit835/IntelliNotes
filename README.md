@@ -1,6 +1,6 @@
 # IntelliNotes
 
-* Contributors *
+*Contributors*
 * Shivam Sansare
 * Amit Mahajan
 * Nishit Patel
