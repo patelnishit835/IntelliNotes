@@ -1,7 +1,7 @@
 # IntelliNotes
 
 *Contributors*
-* Shivam Sansare
 * Amit Mahajan
+* Shivam Sansare
 * Nishit Patel
 * Akshay Kotak
