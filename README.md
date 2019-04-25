@@ -2,9 +2,8 @@
 # IntelliNotes
 
  *Contributors:*
-
-* [@shivamsansare](https://github.com/shivamsansare)
-* [@amitmahajan29](https://github.com/amitmahajan29)
-* [@patelnishit835](https://github.com/patelnishit835)
-* [@akshay2102](https://github.com/akshay2102)
+* [Amit Mahajan](https://github.com/amitmahajan29)
+* [Shivam Sansare](https://github.com/shivamsansare)
+* [Nishit Patel](https://github.com/patelnishit835)
+* [Akshay Kotak](https://github.com/akshay2102)
 
